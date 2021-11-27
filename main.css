@@ -1,0 +1,294 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*
+{
+   margin: 0;
+   padding: 0;
+}
+
+.herobanner
+{
+	background-image: url(images/banner7.jpg);
+	height: 850px;
+	background-size: cover;
+	font-size: 18px;
+	color: white;
+}
+
+.logo
+{
+	width: 10px;
+	
+}
+.input-group 
+{
+	width: 500px !important ;
+	margin: 0 auto;
+}
+.textbanner
+{
+	padding: 80px ;
+}
+.textbanner p
+{
+	font-size: 25px
+}
+.textbanner button
+{
+	margin-top: 30px
+}
+.bodyct h7
+{
+	color :dodgerblue ;
+}
+.body1 img
+{
+	height: 600px;
+	
+	padding: 100px 130px;
+}
+
+.card
+{
+	padding: 30px;
+	background-color: aliceblue;
+	margin-left: 130px;
+}
+.cardblock
+{
+    padding: 0px 110px;
+	
+}
+.service h5
+{
+	color :dodgerblue ;
+}
+
+.showimg p
+{
+	color :dodgerblue ;
+}
+
+.showpl p
+{
+	color :dodgerblue ;
+}
+
+.cardblock1
+{
+	background-color:lightskyblue;
+}
+.cardblock2
+{
+	background-color:lightskyblue;
+}
+.cardblock3
+{
+	background-color:lightskyblue;
+}
+.showpl
+{
+	padding: 100px;
+}
+
+.pl img 
+{
+	height: 350px;
+	font-size: 40px;
+	
+}
+
+.allpl
+{
+	padding: 40px
+}
+
+.pl p
+{
+	font-size: 20px;
+}
+.pl button
+{
+	background-color:lightskyblue;
+}
+.servicelist
+{
+	padding: 50px;
+}
+.servicetext
+{
+	padding: 30px;
+}
+
+.servicetext i
+{
+	color:lightskyblue;
+}
+
+
+.showde img
+{
+	height: 400px;
+	padding: 40px;
+	
+}
+
+.showimg
+{
+	padding: 70px;
+}
+.pricing 
+{
+	padding: 40px;
+	
+}
+.pricing p
+{ color :dodgerblue ;}
+
+.pricelist
+{
+	padding: 40px
+}
+
+.partner
+{
+	padding: 60px;
+}
+.ctpn
+{
+	padding-bottom: 40px;
+}
+.ctpn p
+{
+	color :dodgerblue ;
+}
+.pnlist
+{
+	padding: 80px ;
+	margin-left: 115px !important;
+}
+.pricelist button
+{
+	background-color:lightskyblue;
+	border-radius: 30px;
+	
+}
+
+.card col-md-6 col-lg-4
+{
+	border-radius: 30px;
+	box-shadow: 8px 10px #686868;
+}
+
+.allrep
+{
+    padding: 60px
+}
+.form
+{
+	background-image: url(images/banner4.jpg);
+	height: 850px;
+	background-size: cover;
+	padding: 100px 200px
+		
+}
+
+.formcontent button
+
+{
+	margin-top :30px;
+}
+
+.formcontent 
+{
+	padding: 30px;
+	margin-top: 50px;
+}
+.form1
+{
+	color: white;
+}
+.quabt button
+{
+	background-color: lightskyblue;
+}
+
+.footerde 
+{
+	padding: 50px ;
+	height: 460px;
+	background-color: #021028;
+	color: white;
+}
+.cauket
+{
+	padding: 70px
+}
+
+.logone img
+{
+	height: 50px
+}
+
+.cauket i
+{
+	font-size: 30px;
+	padding: 20px;
+	color: white;
+}
+
+.rep1 img
+{
+	height: 100px
+}
+.rep2 img
+{
+	height: 100px
+}
+.rep3 img
+{
+	height: 100px
+}
+.feedback 
+{
+	padding: 70px
+}
+.discout 
+{
+	width: 100%;
+	height: 500px;
+	background-position: center;
+	background-image:url(images/banner5.jpg);
+	padding: 90px;
+	color: white;
+}
+span
+{
+	color:#FFC60A;
+}
+.discout h6
+{
+	padding: 15px
+}
+
+.allrep
+{
+	padding: 80px
+}
+
+.pro1 img
+
+{
+	height: 315px;
+}
+
+.pro2 img
+{
+	height: 460px;
+	padding: 20px;
+}
+.allpro
+{
+	padding: 60px;
+}
